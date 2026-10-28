@@ -1,0 +1,23 @@
+{
+  "name": "TelePC — Controlo remoto do PC",
+  "short_name": "TelePC",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04060b",
+  "theme_color": "#05070c",
+  "description": "Controla o teu computador a partir do telemóvel: ecrã ao vivo, rato, teclado, janelas e comandos. Grátis e sem App Store.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "pt-PT",
+  "dir": "ltr",
+  "screenshots": []
+}
